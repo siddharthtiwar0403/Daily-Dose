@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/siddharthtiwar0403.github.io/Daily-Dose/static/css/main.a07a961b.css",
-    "main.js": "/siddharthtiwar0403.github.io/Daily-Dose/static/js/main.b83562d7.js",
+    "main.js": "/siddharthtiwar0403.github.io/Daily-Dose/static/js/main.711d390e.js",
     "static/js/453.b2157c12.chunk.js": "/siddharthtiwar0403.github.io/Daily-Dose/static/js/453.b2157c12.chunk.js",
     "static/media/loading.gif": "/siddharthtiwar0403.github.io/Daily-Dose/static/media/loading.700f76a9ed38050a9899.gif",
     "index.html": "/siddharthtiwar0403.github.io/Daily-Dose/index.html",
     "main.a07a961b.css.map": "/siddharthtiwar0403.github.io/Daily-Dose/static/css/main.a07a961b.css.map",
-    "main.b83562d7.js.map": "/siddharthtiwar0403.github.io/Daily-Dose/static/js/main.b83562d7.js.map",
+    "main.711d390e.js.map": "/siddharthtiwar0403.github.io/Daily-Dose/static/js/main.711d390e.js.map",
     "453.b2157c12.chunk.js.map": "/siddharthtiwar0403.github.io/Daily-Dose/static/js/453.b2157c12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a07a961b.css",
-    "static/js/main.b83562d7.js"
+    "static/js/main.711d390e.js"
   ]
 }
