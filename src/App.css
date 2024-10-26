@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.box1:hover{
+  background-color: brown;
+  
+}
+
+button{
+  margin: 0px 50px;
+}
+.card{
+  max-width: 300px;
+  max-height: 550px;
+  overflow: hidden;
+}
+.container1:hover{
+transform: scale(1.08);
+}
+.box3{
+  font-weight: bolder;
+  font-size: xxx-large;
+  margin-top: 65px;
+  color: red;
+}
