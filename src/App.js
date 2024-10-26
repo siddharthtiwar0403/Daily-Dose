@@ -15,7 +15,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Router>
+ 
           <Fragment>
             <LoadingBar color='#f11946' height={6} progress={this.state.progress}/>
             <Navbar />
@@ -27,9 +27,10 @@ export default class App extends Component {
               <Route exact path="/science" element={<News setProgress={this.setProgress} key="science" country="us" category="science" />} />
               <Route exact path="/sports" element={<News setProgress={this.setProgress} key="sports" country="us" category="sports" />} />
               <Route exact path="/technology" element={<News setProgress={this.setProgress} key="technology" country="us" category="technology" />} />
+              <Route exact path="/" element={<News setProgress={this.setProgress} key="technology" country="us" category="technology" />} />
             </Routes>
           </Fragment>
-        </Router>
+  
       </div>
     )
   }
